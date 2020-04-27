@@ -2,6 +2,11 @@ package odev2Algoritmasi;
 
 import java.util.Scanner;
 
+import odev2Algoritmasi.soru1.CanliHucreMatrisi;
+import odev2Algoritmasi.soru2.SpiralSoru2;
+import odev2Algoritmasi.soru3.MatrisCarpimi;
+import odev2Algoritmasi.soru4.DiziTekrarElemanlariSayisi;
+
 public class Algoritmalar {
 
 public static Scanner s=new Scanner(System.in);
